@@ -1,0 +1,20 @@
+<!--
+Terry Tran
+terry.h.tran@gmail.com
+-->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/list_all_button_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:onClick="setContentView"
+        android:text="Tutorial" />
+
+</RelativeLayout>

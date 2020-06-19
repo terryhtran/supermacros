@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Terry Tran
+terry.h.tran@gmail.com
+-->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent" >
+
+    <TextView
+        android:id="@+id/date_text_view"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="96dp"
+        android:layout_width="wrap_content"
+        android:text="Date: "
+        android:textAlignment="center"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/total_calories_text_view"
+        android:inputType="text"
+        android:layout_below="@+id/date_text_view"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="21dp"
+        android:layout_width="wrap_content"
+        android:text="Calories: "
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@android:color/holo_blue_dark" />
+
+    <TextView
+        android:id="@+id/total_fats_text_view"
+        android:layout_below="@+id/total_calories_text_view"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="21dp"
+        android:layout_width="wrap_content"
+        android:text="Fats: "
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@android:color/holo_orange_dark" />
+
+    <TextView
+        android:id="@+id/total_carbs_text_view"
+        android:layout_below="@+id/total_fats_text_view"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="21dp"
+        android:layout_width="wrap_content"
+        android:text="Carbs: "
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@android:color/holo_red_dark" />
+
+    <TextView
+        android:id="@+id/total_protein_text_view"
+        android:layout_below="@+id/total_carbs_text_view"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="21dp"
+        android:layout_width="wrap_content"
+        android:text="Protein: "
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@android:color/holo_green_dark" />
+
+    <TextView
+        android:id="@+id/carbs_percentage_text_view"
+        android:layout_below="@+id/total_protein_text_view"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="27dp"
+        android:layout_width="wrap_content"
+        android:text="Percentage"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="@dimen/abc_text_size_medium_material" />
+
+    <Button
+        android:id="@+id/entries_button"
+        android:layout_below="@+id/carbs_percentage_text_view"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="21dp"
+        android:layout_width="wrap_content"
+        android:text="View Entries" />
+
+    <TextView
+        android:id="@+id/protein_percentage_text_view"
+        android:layout_alignTop="@+id/carbs_percentage_text_view"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="21dp"
+        android:layout_toEndOf="@+id/carbs_percentage_text_view"
+        android:layout_width="wrap_content"
+        android:text="Percentage"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@android:color/holo_green_dark"
+        android:textSize="@dimen/abc_text_size_medium_material" />
+
+    <TextView
+        android:id="@+id/fats_percentage_text_view"
+        android:layout_alignTop="@+id/carbs_percentage_text_view"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="21dp"
+        android:layout_toStartOf="@+id/carbs_percentage_text_view"
+        android:layout_width="wrap_content"
+        android:text="Percentage"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="@dimen/abc_text_size_medium_material" />
+
+</RelativeLayout>

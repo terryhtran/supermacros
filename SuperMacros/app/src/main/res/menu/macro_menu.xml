@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/catalog"
+        android:icon="@drawable/folder"
+        android:title="Catalog"
+        app:showAsAction="always" />
+    <item android:id="@+id/add"
+        android:icon="@drawable/add"
+        android:title="Add"
+        app:showAsAction="always" />
+    <item android:id="@+id/notebook"
+        android:icon="@drawable/notebook"
+        android:title="Notebook"
+        app:showAsAction="always" />
+    <item android:id="@+id/calendar"
+        android:icon="@drawable/calendar"
+        app:showAsAction="always"
+        android:layout_marginRight="40dp"
+        android:title="Calendar" />
+</menu>

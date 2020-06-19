@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Terry Tran
+terry.h.tran@gmail.com
+-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/entry_text_view"
+        android:gravity="center_vertical"
+        android:layout_height="wrap_content"
+        android:layout_weight="5"
+        android:layout_width="0dip"
+        android:minHeight="?android:attr/listPreferredItemHeightSmall"
+        android:textAppearance="?android:attr/textAppearanceListItemSmall"
+        android:paddingEnd="?android:attr/listPreferredItemPaddingEnd"
+        android:paddingStart="?android:attr/listPreferredItemPaddingStart"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/time_text_view"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="15dp"
+        android:layout_weight="1"
+        android:layout_width="0dip"
+        android:text="TextView"
+        android:textSize="10dp" />
+
+</LinearLayout>
+

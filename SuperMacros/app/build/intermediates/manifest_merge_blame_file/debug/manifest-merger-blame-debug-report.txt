@@ -1,0 +1,64 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3Terry Tran
+4terry.h.tran@gmail.com
+5-->
+6<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+7    package="com.tt.supermacros"
+8    android:versionCode="1"
+9    android:versionName="1.0" >
+10
+11    <uses-sdk
+12        android:minSdkVersion="23"
+12-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml
+13        android:targetSdkVersion="30" />
+13-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml
+14
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:10:5-80
+15-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:10:22-78
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:11:5-80
+16-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:11:22-77
+17
+18    <application
+18-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:12:5-29:19
+19        android:allowBackup="true"
+19-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:14:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.1.0] /home/terryt/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:extractNativeLibs="false"
+23        android:icon="@mipmap/ic_launcher"
+23-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:15:9-43
+24        android:label="@string/app_name"
+24-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:16:9-41
+25        android:requestLegacyExternalStorage="true"
+25-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:13:9-52
+26        android:supportsRtl="true"
+26-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:17:9-35
+27        android:testOnly="true"
+28        android:theme="@style/AppTheme" >
+28-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:18:9-40
+29        <activity
+29-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:19:9-28:20
+30            android:name="com.tt.supermacros.MainActivity"
+30-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:20:13-59
+31            android:label="@string/app_name"
+31-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:21:13-45
+32            android:theme="@style/AppTheme.NoActionBar" >
+32-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:22:13-56
+33            <intent-filter>
+33-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:23:13-27:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:24:17-69
+34-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:24:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:26:17-77
+36-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:26:27-74
+37            </intent-filter>
+38        </activity>
+39    </application>
+40
+41</manifest>
