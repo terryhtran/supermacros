@@ -29,7 +29,7 @@ terry.h.tran@gmail.com
         android:layout_weight="1"
         android:layout_width="0dip"
         android:text="TextView"
-        android:textSize="10dp" />
+        android:textSize="12dp" />
 
 </LinearLayout>
 

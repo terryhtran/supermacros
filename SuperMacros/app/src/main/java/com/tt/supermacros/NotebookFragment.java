@@ -61,6 +61,9 @@ public class NotebookFragment extends Fragment {
                 if (totalFCP == 0 && fatsPercentage == 0 && carbsPercentage == 0 && proteinPercentage == 0)  {
                     Toast.makeText(mainActivity, "0 entries for today", Toast.LENGTH_LONG).show();
                 } else {
+                    if (mainActivity.pro == false) {
+                        mainActivity.showProMsg();
+                    }
                     mainActivity.toolbar.setTitle(mainActivity.date);
                     ListAllEntriesFragment listAllEntriesFragment = new ListAllEntriesFragment();
                     getFragmentManager().beginTransaction().replace(R.id.fragment_container, listAllEntriesFragment).addToBackStack(null).commit();

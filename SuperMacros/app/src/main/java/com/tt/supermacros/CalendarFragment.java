@@ -37,11 +37,10 @@ public class CalendarFragment extends Fragment {
                 }
                 if (mainActivity.pro == false) {
                     mainActivity.showProMsg();
-                } else {
-                    mainActivity.date = date;
-                    NotebookFragment notebookFragment = new NotebookFragment();
-                    getFragmentManager().beginTransaction().replace(R.id.fragment_container, notebookFragment).addToBackStack(null).commit();
                 }
+                mainActivity.date = date;
+                NotebookFragment notebookFragment = new NotebookFragment();
+                getFragmentManager().beginTransaction().replace(R.id.fragment_container, notebookFragment).addToBackStack(null).commit();
             }
         });
 

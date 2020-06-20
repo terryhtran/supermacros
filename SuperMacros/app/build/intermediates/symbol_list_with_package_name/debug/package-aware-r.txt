@@ -1578,6 +1578,10 @@ id icon
 id icon_group
 id ifRoom
 id image
+id image1View
+id image2View
+id image3View
+id image4View
 id info
 id invisible
 id italic
@@ -1760,6 +1764,10 @@ id transition_layout_save
 id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
+id tutorial1_text_view
+id tutorial2_text_view
+id tutorial3_text_view
+id tutorial4_text_view
 id unchecked
 id uniform
 id unlabeled

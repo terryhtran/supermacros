@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
     private static final int requestExternalStorage = 1;
     private static String[] permissionStorage = {Manifest.permission.READ_EXTERNAL_STORAGE, Manifest.permission.WRITE_EXTERNAL_STORAGE};
     final String PREFS_NAME = "MyPrefsFile";
-    final Boolean pro = true;
+    final Boolean pro = false;
     Boolean addMode = true;
     Boolean addItem = true;
     Boolean catalogMode = true;
@@ -82,10 +82,12 @@ public class MainActivity extends AppCompatActivity {
         if (settings.getBoolean("first_run", true)) {
             databaseH.dropTables();
             insertSampleData();
+            showProMsg();
             tutorial();
             settings.edit().putBoolean("first_run", false).commit();
+        } else {
+            add();
         }
-        add();
     }
 
     @Override
@@ -109,22 +111,26 @@ public class MainActivity extends AppCompatActivity {
             return true;
         }
         if (id == R.id.action_import_database) {
-            if (pro == true) {
-                importDB();
-            } else {
-                showProMsg();
-            }
+            importDB();
             return true;
         }
         if (id == R.id.action_set_targets) {
+            if (pro != true) {
+                showProMsg();
+            }
             setTargets();
             return true;
         }
         if (id == R.id.action_contact_developer) {
             emailMe();
+            return true;
         }
         if (id == R.id.action_tutorial) {
+            if (pro != true) {
+                showProMsg();
+            }
             tutorial();
+            return true;
         }
         return super.onOptionsItemSelected(item);
     }
@@ -172,7 +178,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void tutorial() {
-        toolbar.setTitle("Add To Log");
+        toolbar.setTitle("Quick Tutorial");
         TutorialFragment tutorialFragment = new TutorialFragment();
         getFragmentManager().beginTransaction().replace(R.id.fragment_container, tutorialFragment).addToBackStack(null).commit();
         return;
@@ -228,8 +234,10 @@ public class MainActivity extends AppCompatActivity {
     public void showProMsg(){
         new AlertDialog.Builder(this)
                 .setIcon(android.R.drawable.ic_dialog_alert)
-                .setTitle("Pro Version Required")
-                .setMessage("Please support this hungry programmer with the pro version.")
+                //.setTitle("Pro Version Required")
+                .setTitle("Hi there gentle soul,")
+                .setMessage("Kindly support this hungry programmer with the pro version. " +
+                        "The pro version is $3.69 and works the same as the free version.")
                 .setPositiveButton("Yes", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {

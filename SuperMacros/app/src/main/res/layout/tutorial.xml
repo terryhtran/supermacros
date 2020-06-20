@@ -4,17 +4,106 @@ terry.h.tran@gmail.com
 -->
 
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:layout_height="match_parent"
     android:layout_width="match_parent"
+    android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <Button
-        android:id="@+id/list_all_button_add"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:clickable="true"
-        android:onClick="setContentView"
-        android:text="Tutorial" />
+    <LinearLayout
+        android:layout_width="282dp"
+        android:layout_height="60dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tutorial1_text_view"
+            android:layout_width="210dp"
+            android:layout_height="60dp"
+            android:gravity="center_vertical"
+            android:text="Add items to your personal database."
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/image1View"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:layout_marginStart="21dp"
+            app:srcCompat="@drawable/folder" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="282dp"
+        android:layout_height="60dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="240dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tutorial2_text_view"
+            android:layout_width="210dp"
+            android:layout_height="60dp"
+            android:gravity="center_vertical"
+            android:text="Log items when you eat."
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/image2View"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:layout_marginStart="21dp"
+            app:srcCompat="@drawable/add" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="282dp"
+        android:layout_height="60dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="330dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tutorial3_text_view"
+            android:layout_width="210dp"
+            android:layout_height="60dp"
+            android:gravity="center_vertical"
+            android:text="See the day's calories and macros."
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/image3View"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:layout_marginStart="21dp"
+            app:srcCompat="@drawable/notebook" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="282dp"
+        android:layout_height="60dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="420dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tutorial4_text_view"
+            android:layout_width="210dp"
+            android:layout_height="60dp"
+            android:gravity="center_vertical"
+            android:text="See historical data in the calendar."
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/image4View"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:layout_marginStart="21dp"
+            app:srcCompat="@drawable/calendar" />
+    </LinearLayout>
 
 </RelativeLayout>
