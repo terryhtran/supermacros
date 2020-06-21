@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pa/values-pa.xml",
+            "outputFile": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pa/values-pa.xml",
             "map": [
                 {
                     "source": "/home/terryt/.gradle/caches/transforms-2/files-2.1/7c1257059daf57644a02375ed800971e/navigation-ui-2.2.2/res/values-pa/values-pa.xml",

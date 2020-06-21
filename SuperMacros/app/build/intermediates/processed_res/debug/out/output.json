@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "applicationId": "com.tt.supermacros",
+  "applicationId": "com.ttpro.supermacros",
   "variantType": "BASE_APK",
   "elements": [
     {
@@ -19,7 +19,7 @@
       },
       "path": "resources-debug.ap_",
       "properties": {
-        "packageId": "com.tt.supermacros",
+        "packageId": "com.ttpro.supermacros",
         "split": "",
         "minSdkVersion": "23"
       }

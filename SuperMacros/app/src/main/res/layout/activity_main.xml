@@ -11,7 +11,7 @@ terry.h.tran@gmail.com
     android:fitsSystemWindows="true"
     android:layout_height="match_parent"
     android:layout_width="match_parent"
-    tools:context="com.tt.supermacros.MainActivity">
+    tools:context="com.ttpro.supermacros.MainActivity">
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/myToolbar"

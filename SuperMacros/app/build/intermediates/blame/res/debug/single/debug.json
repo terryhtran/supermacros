@@ -8,12 +8,12 @@
         "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/debug/layout_list_all.xml.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/layout/list_all.xml"
-    },
-    {
         "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/debug/drawable-v24_catalog.png.flat",
         "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/drawable-v24/catalog.png"
+    },
+    {
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/debug/layout_list_all.xml.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/layout/list_all.xml"
     },
     {
         "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/debug/drawable-v24_add.png.flat",
@@ -24,12 +24,12 @@
         "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/layout/activity_main.xml"
-    },
-    {
         "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/debug/layout_calendar.xml.flat",
         "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/layout/calendar.xml"
+    },
+    {
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",

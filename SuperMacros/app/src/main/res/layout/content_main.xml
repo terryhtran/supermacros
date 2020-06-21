@@ -10,7 +10,7 @@ xmlns:app="http://schemas.android.com/apk/res-auto"
 xmlns:tools="http://schemas.android.com/tools"
 android:layout_height="fill_parent"
 android:layout_width="fill_parent"
-tools:context="com.tt.supermacros.MainActivity"
+tools:context="com.ttpro.supermacros.MainActivity"
 tools:showIn="@layout/activity_main">
 
 <androidx.appcompat.widget.Toolbar

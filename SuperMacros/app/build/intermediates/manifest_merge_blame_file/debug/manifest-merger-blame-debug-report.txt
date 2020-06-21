@@ -4,7 +4,7 @@
 4terry.h.tran@gmail.com
 5-->
 6<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-7    package="com.tt.supermacros"
+7    package="com.ttpro.supermacros"
 8    android:versionCode="1"
 9    android:versionName="1.0" >
 10
@@ -42,8 +42,8 @@
 28-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:18:9-40
 29        <activity
 29-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:19:9-28:20
-30            android:name="com.tt.supermacros.MainActivity"
-30-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:20:13-59
+30            android:name="com.ttpro.supermacros.MainActivity"
+30-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:20:13-62
 31            android:label="@string/app_name"
 31-->/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:21:13-45
 32            android:theme="@style/AppTheme.NoActionBar" >

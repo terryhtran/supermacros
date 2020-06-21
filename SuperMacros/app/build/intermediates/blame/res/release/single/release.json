@@ -1,98 +1,154 @@
 [
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/layout_entry_item.xml.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/layout/entry_item.xml"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/layout_add.xml.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/layout/add.xml"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/layout_content_main.xml.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/layout/content_main.xml"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/layout_activity_main.xml.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/layout_notebook.xml.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/layout/notebook.xml"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/layout_catalog.xml.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/layout/catalog.xml"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/layout_entry_item.xml.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/layout/entry_item.xml"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/drawable-v24_add.png.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/drawable-v24/add.png"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/menu_macro_menu.xml.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/menu/macro_menu.xml"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/layout_log_item.xml.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/layout/log_item.xml"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/layout_add_item.xml.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/layout/add_item.xml"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/layout_add_item.xml.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/layout/add_item.xml"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/layout_calendar.xml.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/layout/calendar.xml"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/drawable-v24_folder.png.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/drawable-v24/folder.png"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/layout_list_all.xml.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/layout/list_all.xml"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/drawable-v24_calendar.png.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/drawable-v24/calendar.png"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/menu_macro_menu.xml.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/menu/macro_menu.xml"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/drawable-v24_notebook.png.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/drawable-v24/notebook.png"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/menu_menu_main.xml.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/menu/menu_main.xml"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/layout_calendar.xml.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/layout/calendar.xml"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/drawable-v24_notebook.png.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/drawable-v24/notebook.png"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/menu_menu_main.xml.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/menu/menu_main.xml"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/layout_add.xml.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/layout/add.xml"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/layout_set_targets.xml.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/layout/set_targets.xml"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/layout_list_all.xml.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/layout/list_all.xml"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/layout_catalog.xml.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/layout/catalog.xml"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/drawable-v24_catalog.png.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/drawable-v24/catalog.png"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/drawable-v24_catalog.png.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/drawable-v24/catalog.png"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/layout_list_row.xml.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/layout/list_row.xml"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/layout_activity_main.xml.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/layout/activity_main.xml"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/layout_content_main.xml.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/layout/content_main.xml"
     },
     {
-        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/layout_notebook.xml.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/layout/notebook.xml"
+    },
+    {
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/drawable-v24_folder.png.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/drawable-v24/folder.png"
+    },
+    {
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/layout_set_targets.xml.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/layout/set_targets.xml"
+    },
+    {
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/drawable-v24_add.png.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/drawable-v24/add.png"
+    },
+    {
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/layout_log_item.xml.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/layout/log_item.xml"
+    },
+    {
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/layout_list_row.xml.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/layout/list_row.xml"
+    },
+    {
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/layout_tutorial.xml.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/layout/tutorial.xml"
+    },
+    {
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/drawable-v24_calendar.png.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/drawable-v24/calendar.png"
+    },
+    {
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/terryt/AndroidStudioProjects/SuperMacros/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     }
 ]

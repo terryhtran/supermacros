@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:2:1-24:12
+ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:8:1-31:12
+INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:8:1-31:12
+INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:8:1-31:12
+INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:8:1-31:12
 MERGED from [androidx.navigation:navigation-ui:2.2.2] /home/terryt/.gradle/caches/transforms-2/files-2.1/7c1257059daf57644a02375ed800971e/navigation-ui-2.2.2/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.1.0] /home/terryt/.gradle/caches/transforms-2/files-2.1/081958b85be993b26123dd5b1125e07f/material-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /home/terryt/.gradle/caches/transforms-2/files-2.1/c2c5fa787d66aaf40578b3071f4d283f/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
@@ -36,33 +36,33 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/terryt/.gradle/ca
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/terryt/.gradle/caches/transforms-2/files-2.1/ed8cc0ac00b11c0234ef1e5a578c70c1/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/terryt/.gradle/caches/transforms-2/files-2.1/3b280e712fa64b7564c60c94f2d493e6/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/terryt/.gradle/caches/transforms-2/files-2.1/de7b0c2f4705e3cb372b76d33c6f36f6/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:8:1-31:12
+INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:8:1-31:12
+INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:8:1-31:12
 	package
-		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:3:5-38
-		INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml
-		INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml
+		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:9:5-36
+		INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml
+		INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml
-		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:2:1-24:12
-		INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml
+		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:8:1-31:12
+		INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml
-		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:2:1-24:12
-		INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml
+		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:8:1-31:12
+		INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:8:11-69
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:4:5-80
+ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:10:5-80
 	android:name
-		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:4:22-78
+		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:10:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:5:5-80
+ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:11:5-80
 	android:name
-		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:5:22-77
+		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:11:22-77
 application
-ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:6:5-22:19
+ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:12:5-29:19
 MERGED from [com.google.android.material:material:1.1.0] /home/terryt/.gradle/caches/transforms-2/files-2.1/081958b85be993b26123dd5b1125e07f/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] /home/terryt/.gradle/caches/transforms-2/files-2.1/081958b85be993b26123dd5b1125e07f/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/terryt/.gradle/caches/transforms-2/files-2.1/28120aa98d624ce8fee0a8087788fd91/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
@@ -71,40 +71,42 @@ MERGED from [androidx.core:core:1.1.0] /home/terryt/.gradle/caches/transforms-2/
 MERGED from [androidx.core:core:1.1.0] /home/terryt/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/terryt/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/terryt/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:13:9-52
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] /home/terryt/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:17:9-35
 	android:label
-		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:9:9-41
+		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:16:9-41
 	android:icon
-		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:8:9-43
+		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:15:9-43
 	android:allowBackup
-		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:7:9-35
+		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:14:9-35
 	android:theme
-		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:11:9-40
-activity#com.example.supermacros.MainActivity
-ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:12:9-21:20
+		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.ttpro.supermacros.MainActivity
+ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:19:9-28:20
 	android:label
-		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:14:13-45
+		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:21:13-45
 	android:theme
-		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:15:13-56
+		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:22:13-56
 	android:name
-		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:13:13-41
+		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:20:13-62
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:16:13-20:29
+ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:17:17-69
+ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:17:25-66
+		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:19:17-77
+ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml:19:27-74
+		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml:26:27-74
 uses-sdk
-INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml
-INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml
+INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml
+INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml
 MERGED from [androidx.navigation:navigation-ui:2.2.2] /home/terryt/.gradle/caches/transforms-2/files-2.1/7c1257059daf57644a02375ed800971e/navigation-ui-2.2.2/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui:2.2.2] /home/terryt/.gradle/caches/transforms-2/files-2.1/7c1257059daf57644a02375ed800971e/navigation-ui-2.2.2/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.1.0] /home/terryt/.gradle/caches/transforms-2/files-2.1/081958b85be993b26123dd5b1125e07f/material-1.1.0/AndroidManifest.xml:20:5-44
@@ -169,13 +171,13 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/terryt/.gra
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/terryt/.gradle/caches/transforms-2/files-2.1/3b280e712fa64b7564c60c94f2d493e6/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/terryt/.gradle/caches/transforms-2/files-2.1/de7b0c2f4705e3cb372b76d33c6f36f6/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/terryt/.gradle/caches/transforms-2/files-2.1/de7b0c2f4705e3cb372b76d33c6f36f6/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml
-INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml
+INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml
+INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml
-		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml
-		INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml
+		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml
+		INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml
-		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml
-		INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml
+		ADDED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml
+		INJECTED from /home/terryt/AndroidStudioProjects/SuperMacros/app/src/main/AndroidManifest.xml
