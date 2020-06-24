@@ -59,7 +59,7 @@ public class NotebookFragment extends Fragment {
         entriesButton.setOnClickListener(new Button.OnClickListener() {
             public void onClick(View v) {
                 if (totalFCP == 0 && fatsPercentage == 0 && carbsPercentage == 0 && proteinPercentage == 0)  {
-                    Toast.makeText(mainActivity, "0 entries for today", Toast.LENGTH_LONG).show();
+                    Toast.makeText(mainActivity, "0 entries found", Toast.LENGTH_LONG).show();
                 } else {
                     if (mainActivity.pro == false) {
                         mainActivity.showProMsg();

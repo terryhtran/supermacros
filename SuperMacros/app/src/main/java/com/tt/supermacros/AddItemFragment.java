@@ -70,9 +70,9 @@ public class AddItemFragment extends Fragment {
             public void onClick(View v) {
                 String title;
                 if (mainActivity.addItem == true) {
-                    title = "Add?";
+                    title = "Add";
                 } else {
-                    title = "Update?";
+                    title = "Update";
                 }
                 mainActivity.toolbar.setTitle("Your Database - Item");
 

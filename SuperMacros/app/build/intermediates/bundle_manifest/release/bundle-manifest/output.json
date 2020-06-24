@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "applicationId": "com.ttpro.supermacros",
+  "applicationId": "com.tt.supermacros",
   "variantType": "BASE_APK",
   "elements": [
     {
@@ -10,8 +10,8 @@
       "apkData": {
         "type": "MAIN",
         "splits": [],
-        "versionCode": 1,
-        "versionName": "1.0",
+        "versionCode": 3,
+        "versionName": "3.0",
         "outputFile": "app-release.apk",
         "fullName": "release",
         "baseName": "release",
@@ -19,7 +19,7 @@
       },
       "path": "AndroidManifest.xml",
       "properties": {
-        "packageId": "com.ttpro.supermacros",
+        "packageId": "com.tt.supermacros",
         "split": "",
         "minSdkVersion": "23"
       }

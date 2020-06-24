@@ -449,14 +449,14 @@ public class DatabaseHandler extends SQLiteOpenHelper {
         String sql = "";
         sql += "SELECT SUM(" + macro + " * " + this.objectServings + " ) AS TOTAL FROM " + this.logTable;
         sql += " WHERE " + this.timestamp +  " LIKE '" + date + "%'";
-
+        //Log.e(TAG, sql);
         SQLiteDatabase db = this.getWritableDatabase();
-
         Cursor cursor = db.rawQuery(sql, null);
 
         if (cursor.moveToFirst()) {
             do {
                 total = cursor.getString(cursor.getColumnIndex("TOTAL"));
+                //Log.e(TAG, total);
             } while (cursor.moveToNext());
         }
         if (total == null) {

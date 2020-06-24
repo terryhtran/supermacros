@@ -25,7 +25,15 @@ public class CalendarFragment extends Fragment {
             @Override
             public void onSelectedDayChange(CalendarView view, int year, int month, int dayOfMonth) {
                 month = month + 1;
-                date = year + "-" + month  + "-" + dayOfMonth;
+                String m = Integer.toString(month);
+                String d = Integer.toString(dayOfMonth);
+                if (m.length() != 2) {
+                    m = "0" + m;
+                }
+                if (d.length() != 2) {
+                    d = "0" + d;
+                }
+                date = year + "-" + m + "-" + d;
             }
         });
 

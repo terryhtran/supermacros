@@ -82,7 +82,9 @@ public class MainActivity extends AppCompatActivity {
         if (settings.getBoolean("first_run", true)) {
             databaseH.dropTables();
             insertSampleData();
-            showProMsg();
+            if (pro == false) {
+                showProMsg();
+            }
             tutorial();
             settings.edit().putBoolean("first_run", false).commit();
         } else {

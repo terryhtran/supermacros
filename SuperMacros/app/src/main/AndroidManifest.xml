@@ -6,7 +6,7 @@ terry.h.tran@gmail.com
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ttpro.supermacros">
+    package="com.tt.supermacros">
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <application
@@ -17,7 +17,7 @@ terry.h.tran@gmail.com
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.ttpro.supermacros.MainActivity"
+            android:name="com.tt.supermacros.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
