@@ -6,8 +6,8 @@ terry.h.tran@gmail.com
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.tt.supermacros"
     android:targetSandboxVersion="2"
-    android:versionCode="3"
-    android:versionName="3.0" >
+    android:versionCode="5"
+    android:versionName="5.0" >
 
     <uses-sdk
         android:minSdkVersion="23"

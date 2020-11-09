@@ -5,8 +5,8 @@
 5-->
 6<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 7    package="com.tt.supermacros"
-8    android:versionCode="3"
-9    android:versionName="3.0" >
+8    android:versionCode="5"
+9    android:versionName="5.0" >
 10
 11    <uses-sdk
 12        android:minSdkVersion="23"
