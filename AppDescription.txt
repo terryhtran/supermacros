@@ -1,0 +1,9 @@
+A simple, lightweight, minimalistic, and easy to use app to track calories and macros.
+
+The app allows serious individuals to precisely track calories, fats, carbs, and proteins.  It doesn't connect to the internet to obtain over generalized nutrition information to encourage users to create a personalized database of the foods they commonly consumed by checking the food labels on food packages, because not all foods are created the same.
+
+The app can export and import the user database for backups, set macro targets, and view historical data in the calendar.
+
+There are no ads and doesn't collect any private user information.
+
+Macro Calorie Counter Tracker
